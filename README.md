@@ -16,6 +16,7 @@ python 2.7/3.6
 |题号 |题目  |我的笔记  | 
 |--|----|-----|
 |237|[删除链表中的节点](https://github.com/593413198/leetcode/tree/master/237)|[链表](https://github.com/593413198/Algorithm/tree/master/DataStructure)|
+|258|[各位相加](https://github.com/593413198/leetcode/tree/master/258)|数位拆分|
 |344| [反转字符串](https://github.com/593413198/leetcode/tree/master/344)|反转列表 |
 |349|[两个数组的交集](https://github.com/593413198/leetcode/tree/master/349)    | [STL之set容器](https://blog.csdn.net/luhao19980909/article/details/89913486)|
 |509|[斐波那契数](https://github.com/593413198/leetcode/tree/master/509)|三目表达式|
