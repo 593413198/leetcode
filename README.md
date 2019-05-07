@@ -12,7 +12,6 @@ python 2.7/3.6
 
 **做题记录：**
 
-https://github.com/593413198/leetcode/tree/master/
 |题号 |题目  |我的笔记  | 
 |--|----|-----|
 |136|[只出现一次的数字](https://github.com/593413198/leetcode/tree/master/136)|[位运算：异或^](https://blog.csdn.net/luhao19980909/article/details/89925491)|
