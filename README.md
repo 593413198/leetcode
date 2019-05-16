@@ -20,6 +20,7 @@ python 2.7/3.6
 |111|[二叉树的最小深度](https://github.com/593413198/leetcode/tree/master/111)|[数据结构：二叉搜索树](https://blog.csdn.net/luhao19980909/article/details/89931636)|
 |136|[只出现一次的数字](https://github.com/593413198/leetcode/tree/master/136)|[位运算：异或^](https://blog.csdn.net/luhao19980909/article/details/89925491)|
 |167|[两数之和 II - 输入有序数组](https://github.com/593413198/leetcode/tree/master/167)|双指针搜索|
+|217|[存在重复元素](https://github.com/593413198/leetcode/tree/master/)|[STL之set容器](https://blog.csdn.net/luhao19980909/article/details/89913486)|
 |226|[翻转二叉树](https://github.com/593413198/leetcode/tree/master/226)|[数据结构：二叉搜索树](https://blog.csdn.net/luhao19980909/article/details/89931636)|
 |237|[删除链表中的节点](https://github.com/593413198/leetcode/tree/master/237)|[链表](https://github.com/593413198/Algorithm/tree/master/DataStructure)|
 |258|[各位相加](https://github.com/593413198/leetcode/tree/master/258)|数位拆分|
